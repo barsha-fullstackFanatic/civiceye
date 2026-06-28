@@ -1,0 +1,6 @@
+{
+  "name": "CivicEye",
+  "description": "An AI-powered platform for citizens to report community infrastructure issues.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
