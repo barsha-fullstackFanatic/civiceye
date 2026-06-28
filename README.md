@@ -1,20 +1,99 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🚀 CivicEye
 
-# Run and deploy your AI Studio app
+An AI-powered civic issue reporting platform that enables citizens to report public infrastructure problems, leverage Google Gemini AI for intelligent analysis, and help communities track and resolve issues efficiently.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/def583f3-f2cb-439d-97a5-fd18d37e5223
+## ✨ Features
 
-## Run Locally
+- 🤖 AI-powered civic issue analysis using Google Gemini
+- 📍 Report and track public infrastructure issues
+- 📊 Interactive dashboard with real-time analytics
+- 🏆 Community leaderboard and civic impact scoring
+- 🔐 Secure user authentication with Firebase
+- ☁️ Cloud Firestore database integration
+- 📱 Fully responsive and modern user interface
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Frontend
+- React
+- Vite
+- Tailwind CSS
+- JavaScript (JSX)
+
+### Development Platform
+- Google AI Studio
+
+### Backend & Database
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Security Rules
+
+### Artificial Intelligence
+- Google Gemini API
+
+### Deployment
+- Google AI Studio (Google Cloud Run)
+
+### Version Control
+- Git
+- GitHub
+
+---
+
+## 📸 Screenshots
+
+> *(Add screenshots or a demo GIF here.)*
+
+---
+
+## 🚀 Run Locally
+
+### Prerequisites
+
+- Node.js (v18 or later)
+- npm
+
+### Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/barsha-fullstackFanatic/civiceye.git
+cd civiceye
+```
+
+2. Install dependencies
+
+```bash
+npm install
+```
+
+3. Configure your environment
+
+Create a `.env.local` file with your own Firebase configuration and Gemini API key.
+
+> **Note:** API keys and Firebase credentials are **not included** in this repository. You'll need your own Firebase project and Gemini API key to run the application locally.
+
+4. Start the development server
+
+```bash
+npm run dev
+```
+
+---
+
+## 🌐 Deployment
+
+This project was developed using **Google AI Studio** and deployed through **Google AI Studio**, which uses **Google Cloud Run** as the hosting platform.
+
+---
+
+## 👨‍💻 Author
+
+**Barsha Kumari**
+
+GitHub: https://github.com/barsha-fullstackFanatic
