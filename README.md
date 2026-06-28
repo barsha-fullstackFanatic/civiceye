@@ -43,10 +43,30 @@ An AI-powered civic issue reporting platform that enables citizens to report pub
 - GitHub
 
 ---
-
 ## 📸 Screenshots
 
-> *(Add screenshots or a demo GIF here.)*
+### Home Page
+![Login Page](ss/s1.png)
+
+### User Dashboard
+![Overview](ss/s2.png)
+
+### Report Issue
+![Report Issue](ss/s3.png)
+
+### Issue Details
+![Issue Details](ss/s4.png)
+
+### Civic Board
+![Civic Intelligence](ss/s6.png)
+
+### Analytics
+![Analytics](ss/s7.png)
+
+### Brief View
+![Brief](ss/s8.png)
+
+---
 
 ---
 
